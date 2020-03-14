@@ -1,0 +1,13 @@
+{
+  "name": "@entrptaher/throttle",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "waait": "^1.0.5"
+  },
+  "dependencies": {
+    "p-throttle": "^2.1.0",
+    "promise-throttle": "^1.0.1"
+  }
+}
